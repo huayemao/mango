@@ -66,7 +66,7 @@ export default function Login() {
           Build multi-tenant applications with custom domains. <br /> Read the{" "}
           <a
             className="font-medium text-black hover:text-gray-800"
-            href="https://demo.vercel.pub/platforms-starter-kit"
+            href="https://demo.huayemao.run/platforms-starter-kit"
             rel="noreferrer"
             target="_blank"
           >

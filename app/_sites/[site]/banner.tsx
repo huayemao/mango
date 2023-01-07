@@ -63,7 +63,7 @@ export default function Banner({ subdomain }: { subdomain: string }) {
       >
         <a
           className="flex-auto font-title text-lg rounded-md py-1 sm:py-3 px-5 text-black border border-gray-200 hover:border-black transition-all ease-in-out duration-150 whitespace-no-wrap"
-          href="https://app.vercel.pub"
+          href="https://app.huayemao.run"
           rel="noreferrer"
           target="_blank"
         >

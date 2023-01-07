@@ -11,7 +11,7 @@ export default async function Head({ params }: { params: { site: string } }) {
     ogImage: data.image,
     ogUrl: data.customDomain
       ? data.customDomain
-      : `https://${data.subdomain}.vercel.pub`,
+      : `https://${data.subdomain}.huayemao.run`,
   } as Meta;
 
   return (
